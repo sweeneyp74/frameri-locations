@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>whatveer</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Frameri Store Locations</name>
+			<Placemark>
+				<name>Over The Rhine</name>
+				<description><![CDATA[Address: 1419 Vine Street<br>Cincinnati, OH 45202<br>Phone: 1-844-FRAMERI<br>Email: Hello@frameri.com<br>Zip: 45202<br>Latitude: 39.111121<br>Longitude: -84.5157161]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1419 Vine Street
+Cincinnati, OH 45202</value>
+					</Data>
+					<Data name='Phone'>
+						<value>1-844-FRAMERI</value>
+					</Data>
+					<Data name='Email'>
+						<value>Hello@frameri.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45202.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.111121</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.5157161</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.5157161,39.111121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beechmont</name>
+				<description><![CDATA[Address: 8315 Beechmont Avenue<br>Cincinnati, OH 45255<br>Phone: (513) 474-4444<br>Email: beechmont@wingeyecare.com<br>Zip: 45255<br>Latitude: 39.0719237<br>Longitude: -84.3240195]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8315 Beechmont Avenue
+Cincinnati, OH 45255</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 474-4444</value>
+					</Data>
+					<Data name='Email'>
+						<value>beechmont@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45255.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.0719237</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.3240195</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3240195,39.0719237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cold Springs</name>
+				<description><![CDATA[Address: 339 Crossroads Blvd.<br>Cold Spring, KY 41076<br>Phone: (859) 441-9464<br>Email: coldspring@wingeyecare.com<br>Zip: 41076<br>Latitude: 39.0057339<br>Longitude: -84.4222253]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>339 Crossroads Blvd.
+Cold Spring, KY 41076</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(859) 441-9464</value>
+					</Data>
+					<Data name='Email'>
+						<value>coldspring@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>41076.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.0057339</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.4222253</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.4222253,39.0057339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colerain</name>
+				<description><![CDATA[Address: 8340 Crossroads Blvd.<br>Cincinnati, OH 41076<br>Phone: (513) 245-9099<br>Email: colerain@wingeyecare.com<br>Zip: 41076<br>Latitude: 39.0046424<br>Longitude: -84.4191142]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8340 Crossroads Blvd.
+Cincinnati, OH 41076</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 245-9099</value>
+					</Data>
+					<Data name='Email'>
+						<value>colerain@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>41076.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.0046424</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.4191142</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.4191142,39.0046424,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Florence</name>
+				<description><![CDATA[Address: Gunpowder Centre 8537 U.S. Highway 42<br>Suite 4F<br>Florence, KY 41042<br>Phone: (859) 282-0911<br>Email: florence@wingeyecare.com<br>Zip: 41042<br>Latitude: 38.9989499<br>Longitude: -84.6266111]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>Gunpowder Centre 8537 U.S. Highway 42
+Suite 4F
+Florence, KY 41042</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(859) 282-0911</value>
+					</Data>
+					<Data name='Email'>
+						<value>florence@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>41042.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>38.9989499</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.6266111</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.6266111,38.9989499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hamilton</name>
+				<description><![CDATA[Address: 768 NW Washington Blvd.<br>Hamilton, OH 45013<br>Phone: (513) 893-8816<br>Email: hamilton@wingeyecare.com<br>Zip: 45013<br>Latitude: 39.4288226<br>Longitude: -84.5944794]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>768 NW Washington Blvd.
+Hamilton, OH 45013</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 893-8816</value>
+					</Data>
+					<Data name='Email'>
+						<value>hamilton@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45013.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.4288226</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.5944794</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.5944794,39.4288226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hyde Park</name>
+				<description><![CDATA[Address: 3850 Paxton Ave.<br>Cincinnati, OH 45209<br>Phone: (513) 533-0031<br>Email: HydePark@wingeyecare.com<br>Zip: 45209<br>Latitude: 39.1464674<br>Longitude: -84.429403]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3850 Paxton Ave.
+Cincinnati, OH 45209</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 533-0031</value>
+					</Data>
+					<Data name='Email'>
+						<value>HydePark@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45209.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.1464674</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.429403</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.429403,39.1464674,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kenwood</name>
+				<description><![CDATA[Address: 8740 Montgomery Road<br>Cincinnati, OH 45236<br>Phone: (513) 791-2222<br>Email: kenwood@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.2134913<br>Longitude: -84.3592661]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8740 Montgomery Road
+Cincinnati, OH 45236</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 791-2222</value>
+					</Data>
+					<Data name='Email'>
+						<value>kenwood@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45236.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.2134913</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.3592661</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3592661,39.2134913,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Liberty</name>
+				<description><![CDATA[Address: 7334 Yankee Road<br>Liberty Twp, OH 45236<br>Phone: (513) 759-9464<br>Email: liberty@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.3763733<br>Longitude: -84.3745582]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>7334 Yankee Road
+Liberty Twp, OH 45236</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 759-9464</value>
+					</Data>
+					<Data name='Email'>
+						<value>liberty@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45236.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.3763733</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.3745582</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3745582,39.3763733,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milford</name>
+				<description><![CDATA[Address: 1090 State Route 28<br>Suite A Milford, OH 45150<br>Phone: 513-575-9464<br>Email: Milford@wingeyecare.com<br>Zip: 45150<br>Latitude: 39.1958188<br>Longitude: -84.2351204]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1090 State Route 28
+Suite A Milford, OH 45150</value>
+					</Data>
+					<Data name='Phone'>
+						<value>513-575-9464</value>
+					</Data>
+					<Data name='Email'>
+						<value>Milford@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45150.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.1958188</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.2351204</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.2351204,39.1958188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mason/Loveland</name>
+				<description><![CDATA[Address: 12094 Montgomery Road<br>Cincinnati, OH 45249<br>Phone: (513) 774-0999<br>Email: symmes@wingeyecare.com<br>Zip: 45249<br>Latitude: 39.2887522<br>Longitude: -84.3001229]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12094 Montgomery Road
+Cincinnati, OH 45249</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 774-0999</value>
+					</Data>
+					<Data name='Email'>
+						<value>symmes@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45249.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.2887522</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.3001229</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3001229,39.2887522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newport</name>
+				<description><![CDATA[Address: 142 Pavilion Pkwy<br>Newport, KY 41071<br>Phone: (859) 291-9464<br>Email: newport@wingeyecare.com<br>Zip: 41071<br>Latitude: 39.0893124<br>Longitude: -84.4763949]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>142 Pavilion Pkwy
+Newport, KY 41071</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(859) 291-9464</value>
+					</Data>
+					<Data name='Email'>
+						<value>newport@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>41071.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.0893124</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.4763949</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.4763949,39.0893124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Springdale/Glendale</name>
+				<description><![CDATA[Address: 1351 E. Kemper Road<br>Cincinnati, OH 45246<br>Phone: (513) 771-9800<br>Email: tricounty@wingeyecare.com<br>Zip: 45246<br>Latitude: 39.2851103<br>Longitude: -84.4487447]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1351 E. Kemper Road
+Cincinnati, OH 45246</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 771-9800</value>
+					</Data>
+					<Data name='Email'>
+						<value>tricounty@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45246.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.2851103</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.4487447</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.4487447,39.2851103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Western Hills</name>
+				<description><![CDATA[Address: 5303 Glenway Avenue<br>Cincinnati, OH 45238<br>Phone: (513) 921-8040<br>Email: glenway@wingeyecare.com<br>Zip: 45238<br>Latitude: 39.126069<br>Longitude: -84.604987]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>5303 Glenway Avenue
+Cincinnati, OH 45238</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(513) 921-8040</value>
+					</Data>
+					<Data name='Email'>
+						<value>glenway@wingeyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>45238.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.126069</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.604987</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.604987,39.126069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Optical Matters</name>
+				<description><![CDATA[Address: 7539 S. University Blvd.<br>Littleton, CO 80122<br>Phone: (303) 730-7422<br>Email: N/A<br>Zip: 80122<br>Latitude: 39.579817<br>Longitude: -104.9619341]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>7539 S. University Blvd.
+Littleton, CO 80122</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(303) 730-7422</value>
+					</Data>
+					<Data name='Email'>
+						<value>N/A</value>
+					</Data>
+					<Data name='Zip'>
+						<value>80122.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.579817</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-104.9619341</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-104.9619341,39.579817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clarke Eyecare Center
+</name>
+				<description><![CDATA[Address: 4314 Kemp Blvd.<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: N/A<br>Zip: 76308<br>Latitude: 33.8647268<br>Longitude: -98.5363786]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4314 Kemp Blvd.
+Wichita Falls, TX 76308</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(940) 691-5645</value>
+					</Data>
+					<Data name='Email'>
+						<value>N/A</value>
+					</Data>
+					<Data name='Zip'>
+						<value>76308.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>33.8647268</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-98.5363786</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.5363786,33.8647268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Advanced Vision Care</name>
+				<description><![CDATA[Address: 4000 Calle Tecate #100<br>Camarillo, CA 93012<br><br>Phone: (805) 482-1136<br>Email: N/A<br>Zip: 93012<br>Latitude: 34.2212319<br>Longitude: -119.0167171]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4000 Calle Tecate #100
+Camarillo, CA 93012
+</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(805) 482-1136</value>
+					</Data>
+					<Data name='Email'>
+						<value>N/A</value>
+					</Data>
+					<Data name='Zip'>
+						<value>93012.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>34.2212319</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-119.0167171</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-119.0167171,34.2212319,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
