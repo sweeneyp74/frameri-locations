@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>whatveer</name>
+		<name>mapmapmap</name>
 		<description><![CDATA[]]></description>
 		<Folder>
 			<name>Frameri Store Locations</name>
@@ -182,7 +182,7 @@ Hamilton, OH 45013</value>
 			</Placemark>
 			<Placemark>
 				<name>Hyde Park</name>
-				<description><![CDATA[Address: 3850 Paxton Ave.<br>Cincinnati, OH 45209<br>Phone: (513) 533-0031<br>Email: HydePark@wingeyecare.com<br>Zip: 45209<br>Latitude: 39.1464674<br>Longitude: -84.429403]]></description>
+				<description><![CDATA[Address: 3850 Paxton Ave.<br>Cincinnati, OH 45209<br>Phone: (513) 533-0031<br>Email: HydePark@wingeyecare.com<br>Zip: 45209<br>Latitude: 39.1464874<br>Longitude: -84.429385]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
 					<Data name='Address'>
@@ -199,14 +199,14 @@ Cincinnati, OH 45209</value>
 						<value>45209.0</value>
 					</Data>
 					<Data name='Latitude'>
-						<value>39.1464674</value>
+						<value>39.1464874</value>
 					</Data>
 					<Data name='Longitude'>
-						<value>-84.429403</value>
+						<value>-84.429385</value>
 					</Data>
 				</ExtendedData>
 				<Point>
-					<coordinates>-84.429403,39.1464674,0.0</coordinates>
+					<coordinates>-84.429385,39.1464874,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -442,20 +442,48 @@ Littleton, CO 80122</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Clarke Eyecare Center
-</name>
-				<description><![CDATA[Address: 4314 Kemp Blvd.<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: N/A<br>Zip: 76308<br>Latitude: 33.8647268<br>Longitude: -98.5363786]]></description>
+				<name>Sunshine Eye Clinic</name>
+				<description><![CDATA[Address: 1441 E Sunshine St<br>Springfield, MO 65804<br>Phone: (417) 886-2020<br>Email: amber@sunshineeyeclinic.com<br>Zip: 65804<br>Latitude: 37.1821318<br>Longitude: -93.2700102]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
 					<Data name='Address'>
-						<value>4314 Kemp Blvd.
+						<value>1441 E Sunshine St
+Springfield, MO 65804</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(417) 886-2020</value>
+					</Data>
+					<Data name='Email'>
+						<value>amber@sunshineeyeclinic.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>65804.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>37.1821318</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-93.2700102</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-93.2700102,37.1821318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clarke Eye Care Center</name>
+				<description><![CDATA[Address: 4314 Kemp Blvd<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: brina@clarkeeye.com<br>Zip: 76308<br>Latitude: 33.8647268<br>Longitude: -98.5363786]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4314 Kemp Blvd
 Wichita Falls, TX 76308</value>
 					</Data>
 					<Data name='Phone'>
 						<value>(940) 691-5645</value>
 					</Data>
 					<Data name='Email'>
-						<value>N/A</value>
+						<value>brina@clarkeeye.com</value>
 					</Data>
 					<Data name='Zip'>
 						<value>76308.0</value>
@@ -472,33 +500,438 @@ Wichita Falls, TX 76308</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Advanced Vision Care</name>
-				<description><![CDATA[Address: 4000 Calle Tecate #100<br>Camarillo, CA 93012<br><br>Phone: (805) 482-1136<br>Email: N/A<br>Zip: 93012<br>Latitude: 34.2212319<br>Longitude: -119.0167171]]></description>
+				<name>Amundsen Advanced Vision Care</name>
+				<description><![CDATA[Address: 400 Calle Tecate #100<br>Camarillo, CA 93012<br>Phone: (805) 482-1136<br>Email: elissa@dramundsenvision.com <br>Zip: 93012<br>Latitude: 34.2215075<br>Longitude: -119.0203186]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
 					<Data name='Address'>
-						<value>4000 Calle Tecate #100
-Camarillo, CA 93012
-</value>
+						<value>400 Calle Tecate #100
+Camarillo, CA 93012</value>
 					</Data>
 					<Data name='Phone'>
 						<value>(805) 482-1136</value>
 					</Data>
 					<Data name='Email'>
-						<value>N/A</value>
+						<value>elissa@dramundsenvision.com </value>
 					</Data>
 					<Data name='Zip'>
 						<value>93012.0</value>
 					</Data>
 					<Data name='Latitude'>
-						<value>34.2212319</value>
+						<value>34.2215075</value>
 					</Data>
 					<Data name='Longitude'>
-						<value>-119.0167171</value>
+						<value>-119.0203186</value>
 					</Data>
 				</ExtendedData>
 				<Point>
-					<coordinates>-119.0167171,34.2212319,0.0</coordinates>
+					<coordinates>-119.0203186,34.2215075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Optical Matters</name>
+				<description><![CDATA[Address: 7539 S University Blvd<br>Centennial, CO 80122<br>Phone: (303) 730-7422<br>Email: lisawithblueeyes@hotmail.com<br>Zip: 80122<br>Latitude: 39.579817<br>Longitude: -104.9619341]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>7539 S University Blvd
+Centennial, CO 80122</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(303) 730-7422</value>
+					</Data>
+					<Data name='Email'>
+						<value>lisawithblueeyes@hotmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>80122.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.579817</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-104.9619341</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-104.9619341,39.579817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Western Reserve Vision Care</name>
+				<description><![CDATA[Address: 3733 Park East Dr Ste 104<br>Beachwood, OH 44122<br>Phone: (216) 359-1307<br>Email: optician@westernreservevisioncare.org<br>Zip: 44122<br>Latitude: 41.4588246<br>Longitude: -81.4932808]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3733 Park East Dr Ste 104
+Beachwood, OH 44122</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(216) 359-1307</value>
+					</Data>
+					<Data name='Email'>
+						<value>optician@westernreservevisioncare.org</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44122.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.4588246</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-81.4932808</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-81.4932808,41.4588246,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Western Reserve Vision Care</name>
+				<description><![CDATA[Address: 5992 Darrow Road<br>Hudson, OH 44236<br>Phone: (330) 650-9599<br>Email: jgrecar@westernreservevisioncare.org<br>Zip: 44236<br>Latitude: 41.2283358<br>Longitude: -81.4409975]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>5992 Darrow Road
+Hudson, OH 44236</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(330) 650-9599</value>
+					</Data>
+					<Data name='Email'>
+						<value>jgrecar@westernreservevisioncare.org</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44236.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.2283358</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-81.4409975</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-81.4409975,41.2283358,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Family Vision of Oregon</name>
+				<description><![CDATA[Address: 51675 N. Columbia River Hwy, P.O. Box 1228<br>Scappoose, OR 97056<br>Phone: (503) 543-6313<br>Email: kelly@familyvisionoforegon.com<br>Zip: 97056<br>Latitude: 45.7451488<br>Longitude: -122.8777264]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>51675 N. Columbia River Hwy, P.O. Box 1228
+Scappoose, OR 97056</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(503) 543-6313</value>
+					</Data>
+					<Data name='Email'>
+						<value>kelly@familyvisionoforegon.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>97056.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>45.7451488</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-122.8777264</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.8777264,45.7451488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glanville, Hussing, &amp; Fath (Family Eyecare)</name>
+				<description><![CDATA[Address: 307 West Main St<br>Kent, OH 44240<br>Phone: (330) 673-7538<br>Email: george@glanvillehussing.com<br>Zip: 44240<br>Latitude: 41.1543388<br>Longitude: -81.3606282]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>307 West Main St
+Kent, OH 44240</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(330) 673-7538</value>
+					</Data>
+					<Data name='Email'>
+						<value>george@glanvillehussing.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44240.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.1543388</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-81.3606282</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-81.3606282,41.1543388,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dr. Sika</name>
+				<description><![CDATA[Address: 14365 Pearl Rd.<br>Cleveland, OH 44136<br>Phone: (440) 238-1966<br>Email: framegodess@hotmail.com<br>Zip: 44136<br>Latitude: 41.3099914<br>Longitude: -81.8337901]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14365 Pearl Rd.
+Cleveland, OH 44136</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(440) 238-1966</value>
+					</Data>
+					<Data name='Email'>
+						<value>framegodess@hotmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44136.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.3099914</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-81.8337901</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-81.8337901,41.3099914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hudson River Eyecare</name>
+				<description><![CDATA[Address: 4 N. Broadway<br>Tarrytown, NY 10591<br>Phone: (914) 332-4074<br>Email: alamiod@gmail.com, info@hudsonrivereyecare.com<br>Zip: 10591<br>Latitude: 41.0764207<br>Longitude: -73.8581002]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4 N. Broadway
+Tarrytown, NY 10591</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(914) 332-4074</value>
+					</Data>
+					<Data name='Email'>
+						<value>alamiod@gmail.com, info@hudsonrivereyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>10591.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.0764207</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-73.8581002</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.8581002,41.0764207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coastal Eyecare</name>
+				<description><![CDATA[Address: 553 18th St<br>Astoria, OR 97103<br>Phone: (503) 325-4401<br>Email: athorsen@coastaleyecare.com<br>Zip: 97103<br>Latitude: 46.187769<br>Longitude: -123.823215]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>553 18th St
+Astoria, OR 97103</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(503) 325-4401</value>
+					</Data>
+					<Data name='Email'>
+						<value>athorsen@coastaleyecare.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>97103.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>46.187769</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-123.823215</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-123.823215,46.187769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cascade Vision Center</name>
+				<description><![CDATA[Address: 4300 Talbot Rd Suite 400<br>Renton, WA 98055<br>Phone: (425) 235-9911<br>Email: optical@cascade-vision-center.com<br>Zip: 98055<br>Latitude: 47.4405036<br>Longitude: -122.2122449]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4300 Talbot Rd Suite 400
+Renton, WA 98055</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(425) 235-9911</value>
+					</Data>
+					<Data name='Email'>
+						<value>optical@cascade-vision-center.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>98055.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>47.4405036</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-122.2122449</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.2122449,47.4405036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Family Eye Care Centers - Huron</name>
+				<description><![CDATA[Address: 310 Williams St.<br>Huron, OH 44839<br>Phone: (419) 433-2630<br>Email: familyishellys@gmail.com<br>Zip: 44839<br>Latitude: 41.394452<br>Longitude: -82.555591]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>310 Williams St.
+Huron, OH 44839</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(419) 433-2630</value>
+					</Data>
+					<Data name='Email'>
+						<value>familyishellys@gmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44839.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.394452</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-82.555591</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-82.555591,41.394452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Family Eye Care Centers - Clyde</name>
+				<description><![CDATA[Address: 1047 W McPherson Highway<br>Clyde, OH 43410<br>Phone: (419) 547-9126<br>Email: familyijuanital@gmail.com<br>Zip: 43410<br>Latitude: 41.3163161<br>Longitude: -82.9995819]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1047 W McPherson Highway
+Clyde, OH 43410</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(419) 547-9126</value>
+					</Data>
+					<Data name='Email'>
+						<value>familyijuanital@gmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>43410.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.3163161</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-82.9995819</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-82.9995819,41.3163161,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Family Eye Care Centers - Sandusky</name>
+				<description><![CDATA[Address: 2331 COLUMBUS AVENUE<br>Sandusky, OH 44870<br>Phone: (419) 626-0272<br>Email: familyicindyl@gmail.com<br>Zip: 44870<br>Latitude: 41.4338452<br>Longitude: -82.6989608]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>2331 COLUMBUS AVENUE
+Sandusky, OH 44870</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(419) 626-0272</value>
+					</Data>
+					<Data name='Email'>
+						<value>familyicindyl@gmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>44870.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.4338452</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-82.6989608</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-82.6989608,41.4338452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northwest Ohio Vision Center</name>
+				<description><![CDATA[Address: 1313 West High Street<br>Bryan, OH 43506<br>Phone: (419) 636-1531<br>Email: blob@bright.net<br>Zip: 43506<br>Latitude: 41.474099<br>Longitude: -84.571575]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1313 West High Street
+Bryan, OH 43506</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(419) 636-1531</value>
+					</Data>
+					<Data name='Email'>
+						<value>blob@bright.net</value>
+					</Data>
+					<Data name='Zip'>
+						<value>43506.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.474099</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-84.571575</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.571575,41.474099,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Conejo-Simi Eye Medical Group</name>
+				<description><![CDATA[Address: 351 Rolling Oaks Drive Suite 102<br>Thousand Oaks, CA 91361<br>Phone: (805) 497-3744<br>Email: joyce@mesmg.com<br>Zip: 91361<br>Latitude: 34.1752<br>Longitude: -118.871161]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>351 Rolling Oaks Drive Suite 102
+Thousand Oaks, CA 91361</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(805) 497-3744</value>
+					</Data>
+					<Data name='Email'>
+						<value>joyce@mesmg.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>91361.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>34.1752</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-118.871161</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-118.871161,34.1752,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
