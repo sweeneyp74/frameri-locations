@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>mapmapmap</name>
+		<name>Untitled map</name>
 		<description><![CDATA[]]></description>
 		<Folder>
 			<name>Frameri Store Locations</name>
@@ -472,7 +472,7 @@ Springfield, MO 65804</value>
 			</Placemark>
 			<Placemark>
 				<name>Clarke Eye Care Center</name>
-				<description><![CDATA[Address: 4314 Kemp Blvd<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: brina@clarkeeye.com<br>Zip: 76308<br>Latitude: 33.8647268<br>Longitude: -98.5363786]]></description>
+				<description><![CDATA[Address: 4314 Kemp Blvd<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: brina@clarkeeye.com<br>Zip: 76308<br>Latitude: 33.8647269<br>Longitude: -98.5363786]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
 					<Data name='Address'>
@@ -489,14 +489,14 @@ Wichita Falls, TX 76308</value>
 						<value>76308.0</value>
 					</Data>
 					<Data name='Latitude'>
-						<value>33.8647268</value>
+						<value>33.8647269</value>
 					</Data>
 					<Data name='Longitude'>
 						<value>-98.5363786</value>
 					</Data>
 				</ExtendedData>
 				<Point>
-					<coordinates>-98.5363786,33.8647268,0.0</coordinates>
+					<coordinates>-98.5363786,33.8647269,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -704,7 +704,7 @@ Cleveland, OH 44136</value>
 			</Placemark>
 			<Placemark>
 				<name>Hudson River Eyecare</name>
-				<description><![CDATA[Address: 4 N. Broadway<br>Tarrytown, NY 10591<br>Phone: (914) 332-4074<br>Email: alamiod@gmail.com, info@hudsonrivereyecare.com<br>Zip: 10591<br>Latitude: 41.0764207<br>Longitude: -73.8581002]]></description>
+				<description><![CDATA[Address: 4 N. Broadway<br>Tarrytown, NY 10591<br>Phone: (914) 332-4074<br>Email: alamiod@gmail.com, info@hudsonrivereyecare.com<br>Zip: 10591<br>Latitude: 41.07629<br>Longitude: -73.857941]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
 					<Data name='Address'>
@@ -721,14 +721,14 @@ Tarrytown, NY 10591</value>
 						<value>10591.0</value>
 					</Data>
 					<Data name='Latitude'>
-						<value>41.0764207</value>
+						<value>41.07629</value>
 					</Data>
 					<Data name='Longitude'>
-						<value>-73.8581002</value>
+						<value>-73.857941</value>
 					</Data>
 				</ExtendedData>
 				<Point>
-					<coordinates>-73.8581002,41.0764207,0.0</coordinates>
+					<coordinates>-73.857941,41.07629,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -932,6 +932,122 @@ Thousand Oaks, CA 91361</value>
 				</ExtendedData>
 				<Point>
 					<coordinates>-118.871161,34.1752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(Cohen's Fashion Optical) Ultimate Spectacle</name>
+				<description><![CDATA[Address: 789 Lexington Ave<br>New York, NY 10021<br>Phone: (212) 792-8123<br>Email: jaclyn@ultimatespectacle.com<br>Zip: 10021<br>Latitude: 40.7636257<br>Longitude: -73.9668918]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>789 Lexington Ave
+New York, NY 10021</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(212) 792-8123</value>
+					</Data>
+					<Data name='Email'>
+						<value>jaclyn@ultimatespectacle.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>10021.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>40.7636257</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-73.9668918</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.9668918,40.7636257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boyle Eye Specialist</name>
+				<description><![CDATA[Address: 3 West Olive Street<br>Scranton, PA 18508<br>Phone: (570) 558-5566<br>Email: stacieamatangelo@gmail.com<br>Zip: 18508<br>Latitude: 41.4172746<br>Longitude: -75.6638405]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3 West Olive Street
+Scranton, PA 18508</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(570) 558-5566</value>
+					</Data>
+					<Data name='Email'>
+						<value>stacieamatangelo@gmail.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>18508.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>41.4172746</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-75.6638405</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-75.6638405,41.4172746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brill Eye Center</name>
+				<description><![CDATA[Address: 5820 LAMAR AVE STE 100<br>Mission, KS 66202<br>Phone: (913) 432-7676<br>Email: perry@brilleye.com<br>Zip: 66202<br>Latitude: 39.0234004<br>Longitude: -94.6592136]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>5820 LAMAR AVE STE 100
+Mission, KS 66202</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(913) 432-7676</value>
+					</Data>
+					<Data name='Email'>
+						<value>perry@brilleye.com</value>
+					</Data>
+					<Data name='Zip'>
+						<value>66202.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>39.0234004</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-94.6592136</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-94.6592136,39.0234004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seebreeze Family Eyecare</name>
+				<description><![CDATA[Address: 91 Waldo Avenue<br>Belfast, ME 4915<br>Phone: 207-338-1480<br>Email: seebreezefamilyeyecarepa@myfairpoint.net<br>Zip: 4915<br>Latitude: 44.4313551<br>Longitude: -69.01798]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>91 Waldo Avenue
+Belfast, ME 4915</value>
+					</Data>
+					<Data name='Phone'>
+						<value>207-338-1480</value>
+					</Data>
+					<Data name='Email'>
+						<value>seebreezefamilyeyecarepa@myfairpoint.net</value>
+					</Data>
+					<Data name='Zip'>
+						<value>4915.0</value>
+					</Data>
+					<Data name='Latitude'>
+						<value>44.4313551</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-69.01798</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-69.01798,44.4313551,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
