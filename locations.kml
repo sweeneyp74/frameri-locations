@@ -35,7 +35,7 @@ Cincinnati, OH 45202</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Beechmont</name>
+				<name>Wing Eyecare - Beechmont</name>
 				<description><![CDATA[Address: 8315 Beechmont Avenue<br>Cincinnati, OH 45255<br>Phone: (513) 474-4444<br>Email: beechmont@wingeyecare.com<br>Zip: 45255<br>Latitude: 39.0719237<br>Longitude: -84.3240195]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -64,7 +64,7 @@ Cincinnati, OH 45255</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Cold Springs</name>
+				<name>Wing Eyecare - Cold Springs</name>
 				<description><![CDATA[Address: 339 Crossroads Blvd.<br>Cold Spring, KY 41076<br>Phone: (859) 441-9464<br>Email: coldspring@wingeyecare.com<br>Zip: 41076<br>Latitude: 39.0057339<br>Longitude: -84.4222253]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -93,7 +93,7 @@ Cold Spring, KY 41076</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Colerain</name>
+				<name>Wing Eyecare - Colerain</name>
 				<description><![CDATA[Address: 8340 Crossroads Blvd.<br>Cincinnati, OH 41076<br>Phone: (513) 245-9099<br>Email: colerain@wingeyecare.com<br>Zip: 41076<br>Latitude: 39.0046424<br>Longitude: -84.4191142]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -122,7 +122,7 @@ Cincinnati, OH 41076</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Florence</name>
+				<name>Wing Eyecare - Florence</name>
 				<description><![CDATA[Address: Gunpowder Centre 8537 U.S. Highway 42<br>Suite 4F<br>Florence, KY 41042<br>Phone: (859) 282-0911<br>Email: florence@wingeyecare.com<br>Zip: 41042<br>Latitude: 38.9989499<br>Longitude: -84.6266111]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -152,7 +152,7 @@ Florence, KY 41042</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hamilton</name>
+				<name>Wing Eyecare - Hamilton</name>
 				<description><![CDATA[Address: 768 NW Washington Blvd.<br>Hamilton, OH 45013<br>Phone: (513) 893-8816<br>Email: hamilton@wingeyecare.com<br>Zip: 45013<br>Latitude: 39.4288226<br>Longitude: -84.5944794]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -181,7 +181,7 @@ Hamilton, OH 45013</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hyde Park</name>
+				<name>Wing Eyecare - Hyde Park</name>
 				<description><![CDATA[Address: 3850 Paxton Ave.<br>Cincinnati, OH 45209<br>Phone: (513) 533-0031<br>Email: HydePark@wingeyecare.com<br>Zip: 45209<br>Latitude: 39.1464874<br>Longitude: -84.429385]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -210,7 +210,7 @@ Cincinnati, OH 45209</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Kenwood</name>
+				<name>Wing Eyecare - Kenwood</name>
 				<description><![CDATA[Address: 8740 Montgomery Road<br>Cincinnati, OH 45236<br>Phone: (513) 791-2222<br>Email: kenwood@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.2134913<br>Longitude: -84.3592661]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -239,7 +239,7 @@ Cincinnati, OH 45236</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Liberty</name>
+				<name>Wing Eyecare - Liberty</name>
 				<description><![CDATA[Address: 7334 Yankee Road<br>Liberty Twp, OH 45236<br>Phone: (513) 759-9464<br>Email: liberty@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.3763733<br>Longitude: -84.3745582]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -268,7 +268,7 @@ Liberty Twp, OH 45236</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Milford</name>
+				<name>Wing Eyecare - Milford</name>
 				<description><![CDATA[Address: 1090 State Route 28<br>Suite A Milford, OH 45150<br>Phone: 513-575-9464<br>Email: Milford@wingeyecare.com<br>Zip: 45150<br>Latitude: 39.1958188<br>Longitude: -84.2351204]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -297,7 +297,7 @@ Suite A Milford, OH 45150</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Mason/Loveland</name>
+				<name>Wing Eyecare - Mason/Loveland</name>
 				<description><![CDATA[Address: 12094 Montgomery Road<br>Cincinnati, OH 45249<br>Phone: (513) 774-0999<br>Email: symmes@wingeyecare.com<br>Zip: 45249<br>Latitude: 39.2887522<br>Longitude: -84.3001229]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -326,7 +326,7 @@ Cincinnati, OH 45249</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Newport</name>
+				<name>Wing Eyecare - Newport</name>
 				<description><![CDATA[Address: 142 Pavilion Pkwy<br>Newport, KY 41071<br>Phone: (859) 291-9464<br>Email: newport@wingeyecare.com<br>Zip: 41071<br>Latitude: 39.0893124<br>Longitude: -84.4763949]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -355,7 +355,7 @@ Newport, KY 41071</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Springdale/Glendale</name>
+				<name>Wing Eyecare - Springdale/Glendale</name>
 				<description><![CDATA[Address: 1351 E. Kemper Road<br>Cincinnati, OH 45246<br>Phone: (513) 771-9800<br>Email: tricounty@wingeyecare.com<br>Zip: 45246<br>Latitude: 39.2851103<br>Longitude: -84.4487447]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
@@ -384,7 +384,7 @@ Cincinnati, OH 45246</value>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Western Hills</name>
+				<name>Wing Eyecare - Western Hills</name>
 				<description><![CDATA[Address: 5303 Glenway Avenue<br>Cincinnati, OH 45238<br>Phone: (513) 921-8040<br>Email: glenway@wingeyecare.com<br>Zip: 45238<br>Latitude: 39.126069<br>Longitude: -84.604987]]></description>
 				<styleUrl>#icon-1899-0288D1</styleUrl>
 				<ExtendedData>
