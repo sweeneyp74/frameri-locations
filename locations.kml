@@ -10,6 +10,7 @@
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -22,6 +23,7 @@
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
         <scale>1</scale>
@@ -259,7 +261,7 @@ Cincinnati, OH 45209</value>
       </Placemark>
       <Placemark>
         <name>Wing Eyecare - Kenwood</name>
-        <description><![CDATA[Address: 8740 Montgomery Road<br>Cincinnati, OH 45236<br>Phone: (513) 791-2222<br>Email: kenwood@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.2134913<br>Longitude: -84.3592661]]></description>
+        <description><![CDATA[Address: 8740 Montgomery Road<br>Cincinnati, OH 45236<br>Phone: (513) 791-2222<br>Email: kenwood@wingeyecare.com<br>Zip: 45236<br>Latitude: 39.2134912<br>Longitude: -84.3592662]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -276,15 +278,15 @@ Cincinnati, OH 45236</value>
             <value>45236.0</value>
           </Data>
           <Data name="Latitude">
-            <value>39.2134913</value>
+            <value>39.2134912</value>
           </Data>
           <Data name="Longitude">
-            <value>-84.3592661</value>
+            <value>-84.3592662</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -84.3592661,39.2134913,0
+            -84.3592662,39.2134912,0
           </coordinates>
         </Point>
       </Placemark>
@@ -507,7 +509,7 @@ Littleton, CO 80122</value>
       </Placemark>
       <Placemark>
         <name>Sunshine Eye Clinic</name>
-        <description><![CDATA[Address: 1441 E Sunshine St<br>Springfield, MO 65804<br>Phone: (417) 886-2020<br>Email: amber@sunshineeyeclinic.com<br>Zip: 65804<br>Latitude: 37.1821318<br>Longitude: -93.2700102]]></description>
+        <description><![CDATA[Address: 1441 E Sunshine St<br>Springfield, MO 65804<br>Phone: (417) 886-2020<br>Email: amber@sunshineeyeclinic.com<br>Zip: 65804<br>Latitude: 37.1821496<br>Longitude: -93.2700744]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -524,21 +526,21 @@ Springfield, MO 65804</value>
             <value>65804.0</value>
           </Data>
           <Data name="Latitude">
-            <value>37.1821318</value>
+            <value>37.1821496</value>
           </Data>
           <Data name="Longitude">
-            <value>-93.2700102</value>
+            <value>-93.2700744</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -93.2700102,37.1821318,0
+            -93.2700744,37.1821496,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Clarke Eye Care Center</name>
-        <description><![CDATA[Address: 4314 Kemp Blvd<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: brina@clarkeeye.com<br>Zip: 76308<br>Latitude: 33.8647269<br>Longitude: -98.5363786]]></description>
+        <description><![CDATA[Address: 4314 Kemp Blvd<br>Wichita Falls, TX 76308<br>Phone: (940) 691-5645<br>Email: brina@clarkeeye.com<br>Zip: 76308<br>Latitude: 33.8647268<br>Longitude: -98.5363786]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -555,7 +557,7 @@ Wichita Falls, TX 76308</value>
             <value>76308.0</value>
           </Data>
           <Data name="Latitude">
-            <value>33.8647269</value>
+            <value>33.8647268</value>
           </Data>
           <Data name="Longitude">
             <value>-98.5363786</value>
@@ -563,7 +565,7 @@ Wichita Falls, TX 76308</value>
         </ExtendedData>
         <Point>
           <coordinates>
-            -98.5363786,33.8647269,0
+            -98.5363786,33.8647268,0
           </coordinates>
         </Point>
       </Placemark>
@@ -662,7 +664,7 @@ Beachwood, OH 44122</value>
       </Placemark>
       <Placemark>
         <name>Western Reserve Vision Care</name>
-        <description><![CDATA[Address: 5992 Darrow Road<br>Hudson, OH 44236<br>Phone: (330) 650-9599<br>Email: jgrecar@westernreservevisioncare.org<br>Zip: 44236<br>Latitude: 41.2283358<br>Longitude: -81.4409975]]></description>
+        <description><![CDATA[Address: 5992 Darrow Road<br>Hudson, OH 44236<br>Phone: (330) 650-9599<br>Email: jgrecar@westernreservevisioncare.org<br>Zip: 44236<br>Latitude: 41.2283357<br>Longitude: -81.4409975]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -679,7 +681,7 @@ Hudson, OH 44236</value>
             <value>44236.0</value>
           </Data>
           <Data name="Latitude">
-            <value>41.2283358</value>
+            <value>41.2283357</value>
           </Data>
           <Data name="Longitude">
             <value>-81.4409975</value>
@@ -687,7 +689,7 @@ Hudson, OH 44236</value>
         </ExtendedData>
         <Point>
           <coordinates>
-            -81.4409975,41.2283358,0
+            -81.4409975,41.2283357,0
           </coordinates>
         </Point>
       </Placemark>
@@ -786,7 +788,7 @@ Cleveland, OH 44136</value>
       </Placemark>
       <Placemark>
         <name>Hudson River Eyecare</name>
-        <description><![CDATA[Address: 4 N. Broadway<br>Tarrytown, NY 10591<br>Phone: (914) 332-4074<br>Email: alamiod@gmail.com, info@hudsonrivereyecare.com<br>Zip: 10591<br>Latitude: 41.07629<br>Longitude: -73.857941]]></description>
+        <description><![CDATA[Address: 4 N. Broadway<br>Tarrytown, NY 10591<br>Phone: (914) 332-4074<br>Email: alamiod@gmail.com, info@hudsonrivereyecare.com<br>Zip: 10591<br>Latitude: 41.0763884<br>Longitude: -73.8582803]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -803,15 +805,15 @@ Tarrytown, NY 10591</value>
             <value>10591.0</value>
           </Data>
           <Data name="Latitude">
-            <value>41.07629</value>
+            <value>41.0763884</value>
           </Data>
           <Data name="Longitude">
-            <value>-73.857941</value>
+            <value>-73.8582803</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -73.857941,41.07629,0
+            -73.8582803,41.0763884,0
           </coordinates>
         </Point>
       </Placemark>
@@ -879,7 +881,7 @@ Renton, WA 98055</value>
       </Placemark>
       <Placemark>
         <name>Family Eye Care Centers - Huron</name>
-        <description><![CDATA[Address: 310 Williams St.<br>Huron, OH 44839<br>Phone: (419) 433-2630<br>Email: familyishellys@gmail.com<br>Zip: 44839<br>Latitude: 41.394452<br>Longitude: -82.555591]]></description>
+        <description><![CDATA[Address: 310 Williams St.<br>Huron, OH 44839<br>Phone: (419) 433-2630<br>Email: familyishellys@gmail.com<br>Zip: 44839<br>Latitude: 41.3945128<br>Longitude: -82.5556433]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -896,15 +898,15 @@ Huron, OH 44839</value>
             <value>44839.0</value>
           </Data>
           <Data name="Latitude">
-            <value>41.394452</value>
+            <value>41.3945128</value>
           </Data>
           <Data name="Longitude">
-            <value>-82.555591</value>
+            <value>-82.5556433</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -82.555591,41.394452,0
+            -82.5556433,41.3945128,0
           </coordinates>
         </Point>
       </Placemark>
@@ -972,7 +974,7 @@ Sandusky, OH 44870</value>
       </Placemark>
       <Placemark>
         <name>Northwest Ohio Vision Center</name>
-        <description><![CDATA[Address: 1313 West High Street<br>Bryan, OH 43506<br>Phone: (419) 636-1531<br>Email: blob@bright.net<br>Zip: 43506<br>Latitude: 41.4740631<br>Longitude: -84.5715342]]></description>
+        <description><![CDATA[Address: 1313 West High Street<br>Bryan, OH 43506<br>Phone: (419) 636-1531<br>Email: blob@bright.net<br>Zip: 43506<br>Latitude: 41.474063<br>Longitude: -84.5715341]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -989,21 +991,21 @@ Bryan, OH 43506</value>
             <value>43506.0</value>
           </Data>
           <Data name="Latitude">
-            <value>41.4740631</value>
+            <value>41.474063</value>
           </Data>
           <Data name="Longitude">
-            <value>-84.5715342</value>
+            <value>-84.5715341</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -84.5715342,41.4740631,0
+            -84.5715341,41.474063,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Conejo-Simi Eye Medical Group</name>
-        <description><![CDATA[Address: 351 Rolling Oaks Drive Suite 102<br>Thousand Oaks, CA 91361<br>Phone: (805) 497-3744<br>Email: joyce@mesmg.com<br>Zip: 91361<br>Latitude: 34.175197<br>Longitude: -118.8710301]]></description>
+        <description><![CDATA[Address: 351 Rolling Oaks Drive Suite 102<br>Thousand Oaks, CA 91361<br>Phone: (805) 497-3744<br>Email: joyce@mesmg.com<br>Zip: 91361<br>Latitude: 34.1752881<br>Longitude: -118.8710947]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -1020,15 +1022,15 @@ Thousand Oaks, CA 91361</value>
             <value>91361.0</value>
           </Data>
           <Data name="Latitude">
-            <value>34.175197</value>
+            <value>34.1752881</value>
           </Data>
           <Data name="Longitude">
-            <value>-118.8710301</value>
+            <value>-118.8710947</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -118.8710301,34.175197,0
+            -118.8710947,34.1752881,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1127,7 +1129,7 @@ Mission, KS 66202</value>
       </Placemark>
       <Placemark>
         <name>Seebreeze Family Eyecare</name>
-        <description><![CDATA[Address: 91 Waldo Avenue<br>Belfast, ME 4915<br>Phone: (207) 338-1480<br>Email: seebreezefamilyeyecarepa@myfairpoint.net<br>Zip: 4915<br>Latitude: 44.4313458<br>Longitude: -69.0179935]]></description>
+        <description><![CDATA[Address: 91 Waldo Avenue<br>Belfast, ME 4915<br>Phone: (207) 338-1480<br>Email: seebreezefamilyeyecarepa@myfairpoint.net<br>Zip: 4915<br>Latitude: 44.4314441<br>Longitude: -69.0179134]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -1144,21 +1146,21 @@ Belfast, ME 4915</value>
             <value>4915.0</value>
           </Data>
           <Data name="Latitude">
-            <value>44.4313458</value>
+            <value>44.4314441</value>
           </Data>
           <Data name="Longitude">
-            <value>-69.0179935</value>
+            <value>-69.0179134</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -69.0179935,44.4313458,0
+            -69.0179134,44.4314441,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Vision Source Bossier City</name>
-        <description><![CDATA[Address: 1911 Benton Road Ste C<br>Bossier City, LA 71111<br>Phone: (318) 742-4012<br>Email: adamseyecare@yahoo.com<br>Zip: 71111<br>Latitude: 32.5377065<br>Longitude: -93.7216545]]></description>
+        <description><![CDATA[Address: 1911 Benton Road Ste C<br>Bossier City, LA 71111<br>Phone: (318) 742-4012<br>Email: adamseyecare@yahoo.com<br>Zip: 71111<br>Latitude: 32.5377064<br>Longitude: -93.7216545]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="Address">
@@ -1175,7 +1177,7 @@ Bossier City, LA 71111</value>
             <value>71111.0</value>
           </Data>
           <Data name="Latitude">
-            <value>32.5377065</value>
+            <value>32.5377064</value>
           </Data>
           <Data name="Longitude">
             <value>-93.7216545</value>
@@ -1183,7 +1185,7 @@ Bossier City, LA 71111</value>
         </ExtendedData>
         <Point>
           <coordinates>
-            -93.7216545,32.5377065,0
+            -93.7216545,32.5377064,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1339,6 +1341,68 @@ Holly Springs, NC 27540</value>
         <Point>
           <coordinates>
             -78.8259304,35.654348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stoughton Eye Care & Eyewear]]></name>
+        <description><![CDATA[Address: 2300 US HWY 51-138 STE E<br>Stoughton, WI 53589<br>Phone: 608-205-2293<br>Email: optical@stoughtoneyecare.com<br>Zip: 53589<br>Latitude: 42.9192662<br>Longitude: -89.2482519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2300 US HWY 51-138 STE E
+Stoughton, WI 53589</value>
+          </Data>
+          <Data name="Phone">
+            <value>608-205-2293</value>
+          </Data>
+          <Data name="Email">
+            <value>optical@stoughtoneyecare.com</value>
+          </Data>
+          <Data name="Zip">
+            <value>53589.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>42.9192662</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-89.2482519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.2482519,42.9192662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aldridge Eye Instutute</name>
+        <description><![CDATA[Address: 419 E. Main Street<br>Burnsville, NC 28714<br>Phone: 828-682-2104<br>Email: <br>Zip: 28714<br>Latitude: 35.916221<br>Longitude: -82.289365]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>419 E. Main Street
+Burnsville, NC 28714</value>
+          </Data>
+          <Data name="Phone">
+            <value>828-682-2104</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+          <Data name="Zip">
+            <value>28714.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>35.916221</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-82.289365</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.289365,35.916221,0
           </coordinates>
         </Point>
       </Placemark>
